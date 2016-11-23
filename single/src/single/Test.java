@@ -4,7 +4,7 @@
 package single;
 
 /**
- * @作者：Administrator
+ * @作者：师傅
  * @时间：下午1:31:41
  */
 public class Test {
